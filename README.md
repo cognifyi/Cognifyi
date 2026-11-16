@@ -1,94 +1,59 @@
-# Cognifyi 👋
+# Hi, I'm Cognifyi 👋
 
-🧠 **[SuperAIHuman Labs](https://superaihuman.ai)** | 🤖 **Human-AI Fusion Builder** | 🤖 **AI-infra Builder**
+**Building Pazity at [SuperAIHuman Labs](https://superaihuman.ai) — long-horizon agents that deliver with proof.**
 
-> Building the cognitive infrastructure for human-AI fusion. From collaboration to evolution.
-
-I'm building **Pazity Neural Brain** — a living knowledge network that evolves with human cognition. My mission is to create the bridge between human creativity and machine intelligence, enabling individuals and teams to evolve into **SuperAIHuman**.
+> Intelligence is abundant. Trust is scarce. I work on the trust part.
 
 ---
 
-## Core Vision
+## What I'm building now
 
-**SuperAIHuman** is not my labs mission — it's the evolutionary state users achieve through our ecosystem.
+[Pazity](https://www.pazity.com) (Beta) — trusted long-horizon delivery that compounds:
 
-When a developer deeply integrates with Pazity Neural Brain through Nexus OS, they're no longer just writing code — they become a **SuperAIHuman** capable of:
-- Real-time access to global knowledge
-- Anticipating potential risks
-- Crossing cognitive boundaries
+- 🤖 **Omni** — owns long-horizon tasks end-to-end, improving every run ([omni.pazity.com](https://omni.pazity.com))
+- 🧠 **Brain** — the knowledge engine underneath, not a memory dump ([brain.pazity.com](https://brain.pazity.com))
+- 🛡️ **CogOS** — the trust boundary: assertions, sandboxes, approvals, replayable audit ([cogos.pazity.com](https://cogos.pazity.com))
 
-This isn't about replacing humans. It's about **releasing the boundaries of human potential**.
-
----
-
-## The Ecosystem
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                 Next-Gen AI Evolutionary Framework               │
-│        Context-Aware · Multimodal Reasoning · Goal Alignment     │
-├──────────────────────────────────────────────────────────────────┤
-│                  Specialized Application Layer                   │
-│      Productivity · Programming · Data Insights · SecOps         │
-├──────────────────────────────────────────────────────────────────┤
-│                 Integration & Connectivity Layer                 │
-│         Enterprise Connectors · Cross-Platform Interface         │
-├──────────────────────────────────────────────────────────────────┤
-│                 Core Intelligence Processing Unit                │
-│    Adaptive Data Ingestion → Knowledge Synthesis → Reasoning     │
-├──────────────────────────────────────────────────────────────────┤
-│                 Distributed Execution Infrastructure             │
-│    Secure Runtime · Resource Management · System Orchestration   │
-└──────────────────────────────────────────────────────────────────┘
-```
+Every step verified, every run smarter — until a handful of people can ship like an entire org.
 
 ---
 
-## Current Projects
+## What I'm researching
 
-- 🧠 **[Pazity Neural Brain](https://github.com/superaihuman/pazity-neural-brain)** — Living knowledge network with causal reasoning and continuous learning
+Ten years further out, with the lab ([superaihuman.ai](https://www.superaihuman.ai)):
+
+- Systems that evolve their own goals — and have to **prove** they haven't drifted
+- Forgetting cleanly, and proving the poison is gone
+- Memory with a paper trail: every skill carries its provenance
+
+Guiding question: *what's worth wanting, when everything else compounds?*
+
 ---
 
-## 🛠 Tech Stack
+## Beliefs
 
-**Languages**
+- Proof is the brake — evolution without proof is drift
+- Permission before intelligence; a human veto that never expires
+- Failures should harden into constraints, successes into skills
+
+---
+
+## 🛠 Stack
+
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-</p>
-
-**AI & Tools**
-<p>
-  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Knowledge%20Graph-2E5EAA?style=flat-square&logo=neo4j&logoColor=white" />
 </p>
 
 ---
 
-## 🌱 What I'm Building
-
-- **Pazity Neural Brain** — A knowledge engine that truly understands, not just retrieves
-
----
-
 ## 📫 Connect
 
-- 🐦 **Twitter/X**: [@Cognifyi](https://x.com/CognifyINT)
-- 📧 **Email**: [hello@superaihuman.ai](mailto:hello@superaihuman.ai)
-- 🌐 **Website**: [superaihuman.ai](https://superaihuman.ai)
-
----
-
-## 💡 Beliefs
-
-- Human creativity + machine intelligence = exponential cognitive leap
-- Knowledge must be structured, explainable, and evolvable
-- The best interface is no interface — context-aware, proactive assistance
-- From efficiency improvement to intelligence dimension elevation
-
----
+- 🐦 Personal: [@CognifyINT](https://x.com/CognifyINT) · Lab: [@superaihuman](https://x.com/superaihuman)
+- 📧 [hello@superaihuman.ai](mailto:hello@superaihuman.ai) · Product: [info@pazity.com](mailto:info@pazity.com)
+- 🌐 [pazity.com](https://www.pazity.com) (product) · [superaihuman.ai](https://www.superaihuman.ai) (research) · 🏢 [SuperAIHuman Labs](https://github.com/superaihuman)
 
 <p align="left">
-  <sub>🧠 <em>Not just enhancing intelligence — evolving humans into SuperAIHuman.</em></sub>
+  <sub>The future, discovering itself — I'm building the first step.</sub>
 </p>
